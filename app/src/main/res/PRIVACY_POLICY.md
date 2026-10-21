@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: June 4, 2025**
+**Last updated: October 18, 2026**
 
 This Privacy Policy describes how **Air Metrics** ("the app", "we", "our", or "us") handles user data. By using this Wear OS application, you agree to the practices described in this policy.
 
@@ -55,7 +55,7 @@ As we do not collect or store any personal data, there is no personal user data 
 
 ## 👶 Children’s Privacy
 
-This app is **not directed to children under the age of 13** and does not knowingly collect data from them.
+This app is **not directed to children under the age of 13** and does not collect data from them.
 
 ## 📬 Contact
 
